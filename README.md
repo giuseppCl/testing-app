@@ -10,7 +10,9 @@ Feel free to explore, fork, or use it as inspiration for your own experiments!
 ## Related Blog Post
 
 You can read more about this project on my blog:  
+
 👉 [Introduction to Spring Boot Application Testing for Beginners – A Practical Guide (Part 1)](https://blog.giuseppe.clinaz.com/?p=1)
+👉 [Introduction to Spring Boot Application Testing for Beginners – A Practical Guide (Part 2)](https://blog.giuseppe.clinaz.com/?p=261)
 ---
 
 **Enjoy exploring!** 😊
